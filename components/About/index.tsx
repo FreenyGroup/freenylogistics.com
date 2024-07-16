@@ -159,11 +159,11 @@ const About = () => {
               </p>
               <div>
                 <a
-                  href="#"
+                  href="/services/airport-transportation/"
                   className="group mt-7.5 inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary"
                 >
                   <span className="duration-300 group-hover:pr-2">
-                    Know More
+                    Learn More
                   </span>
                   <svg
                     width="14"

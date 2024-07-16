@@ -3,12 +3,6 @@ import Image from "next/image";
 import { useState } from "react";
 
 const Hero = () => {
-  const [email, setEmail] = useState("");
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-  };
-
   return (
     <>
       <section className="overflow-hidden pb-20 pt-35 md:pt-40 xl:pb-25 xl:pt-46">
@@ -33,7 +27,7 @@ const Hero = () => {
               </p>
 
               <div className="mt-10">
-                <form onSubmit={handleSubmit}>
+                <a href="/services/">
                   <div className="flex flex-wrap gap-5">
                     <button
                       aria-label="get started button"
@@ -42,7 +36,7 @@ const Hero = () => {
                       View Services
                     </button>
                   </div>
-                </form>
+                </a>
               </div>
             </div>
 

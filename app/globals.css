@@ -29,7 +29,7 @@
   .dropdown {
     @apply -left-7.5 mt-2 hidden min-w-max flex-col gap-4 rounded-md border border-stroke bg-white px-8 py-5 shadow-solid-13 duration-300 ease-in dark:border-strokedark dark:bg-black xl:invisible xl:absolute
     xl:mt-0 xl:flex xl:w-[250px] xl:translate-y-10 xl:opacity-0
-    xl:before:absolute xl:before:-top-1.5 xl:before:left-10 xl:before:h-3 xl:before:w-3 xl:before:rotate-45 xl:before:border-l xl:before:border-t xl:before:border-stroke xl:before:bg-white xl:group-hover:visible xl:group-hover:translate-y-6.5 
+    xl:before:absolute xl:before:-top-1.5 xl:before:left-10 xl:before:h-3 xl:before:w-3 xl:before:rotate-45 xl:before:border-l xl:before:border-t xl:before:border-stroke xl:before:bg-white xl:group-hover:visible xl:group-hover:translate-y-6.5
     xl:group-hover:opacity-100 xl:dark:before:border-strokedark xl:dark:before:bg-black;
   }
 }
@@ -124,4 +124,28 @@ pre {
 
 .active-tab {
   @apply bg-stroke text-black dark:bg-blackho dark:text-white;
+}
+
+.success-card {
+  background: white;
+  padding: 60px;
+  border-radius: 4px;
+  box-shadow: 0 2px 3px #C8D0D8;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.success-card i {
+  color: #9ABC66;
+  font-size: 100px;
+  line-height: 200px;
+  margin-left: -15px;
+}
+
+.success-card h1 {
+  color: #88B04B;
+  font-weight: 900;
+  font-size: 40px;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
