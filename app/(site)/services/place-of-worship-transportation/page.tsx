@@ -4,8 +4,9 @@ import { Metadata } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Airport Transportation",
-  description: "This is Blog details page for Solid Pro",
+  title: "Place of Worship Transportation",
+  description:
+    "This is the Place of Worship transportation page for Freeny Logistics",
   // other metadata
 };
 
@@ -33,7 +34,7 @@ const SingleBlogPage = async () => {
                 </div>
 
                 <h2 className="mb-5 mt-11 text-3xl font-semibold text-black dark:text-white 2xl:text-sectiontitle2">
-                  House of Worship Transportation
+                  Place Of Worship Transportation
                 </h2>
 
                 <h4 className="mb-5 font-semibold dark:text-white">

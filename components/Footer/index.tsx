@@ -106,7 +106,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        House Of Worship Transportation
+                        Place Of Worship Transportation
                       </a>
                     </li>
                     <li>

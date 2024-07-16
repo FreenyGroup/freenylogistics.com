@@ -20,10 +20,10 @@ const BlogData: Blog[] = [
   {
     _id: 3,
     mainImage: "/images/blog/worship.png",
-    title: "House Of Worship Transportation",
+    title: "Place Of Worship Transportation",
     metadata:
       "Our place of worship transportation service is dedicated to providing safe and reliable rides for your congregation. We understand the importance of community and spiritual gatherings, and our goal is to make transportation to these events as convenient as possible. Our professional drivers are courteous and punctual, ensuring you arrive at your destination on time.",
-    slug: "/services/house-of-worship-transportation",
+    slug: "/services/place-of-worship-transportation",
   },
   {
     _id: 4,

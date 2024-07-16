@@ -32,9 +32,9 @@ const menuData: Menu[] = [
       },
       {
         id: 35,
-        title: "House Of Worship Transportation",
+        title: "Place Of Worship Transportation",
         newTab: false,
-        path: "/services/house-of-worship-transportation",
+        path: "/services/place-of-worship-transportation",
       },
       {
         id: 35.1,

@@ -6,17 +6,17 @@ This Next.js template's homepage comes with an awesome hero area, logos of assoc
 
 **Solid Next.js template packed with all necessary external pages** - such as login, registration, blog grids, and single blog pages, among others. This broad collection of pages provides all the necessary tools to create a feature-packed, comprehensive, and visually appealing website or landing page for software, a web application, or SaaS.
 
-### [🔥 Get Solid Pro - Next.js SaaS Boilerplate and Starter Kit](https://nextjstemplates.com/templates/solid)
+### [🔥 Get Freeny Logistics - Next.js SaaS Boilerplate and Starter Kit](https://nextjstemplates.com/templates/solid)
 
 ![Startup Pro](https://uideck.com/wp-content/uploads/edd/2023/07/solid-saas.png)
 
-### [🚀 Solid PRO Live Demo](https://solid.nextjstemplates.com/)
+### [🚀 Freeny Logistics Live Demo](https://solid.nextjstemplates.com/)
 
 ### [🚀 Solid FREE Live Demo](https://solid-free.nextjstemplates.com/)
 
 ### TailAdmin React PRO vs TailAdmin React FREE Comparison 📊
 
-#### [Solid PRO](https://solid.nextjstemplates.com/)
+#### [Freeny Logistics](https://solid.nextjstemplates.com/)
 - SaaS Boilerplate + Starter Kit with Essential Integrations and Functionalities
 - Essential Integrations: Auth, DB, Stripe, MDX and More ...
 - Fully Functional, Ready to Use Sanity Blog Support
@@ -53,27 +53,27 @@ Here are the steps you need to follow to install the dependencies.
 1.Download and extract the template from **Next.js Templates.**
 
 2.**cd** into the template directory then run this command to install all the dependencies
-    
+
 ```bash
     npm install
 ```
-    
+
 or
-    
+
 ```bash
     yarn install
  ```
 
 
 You can start the project on the local server
-    
+
 ```bash
     npm run dev
  ```
 
-It’ll start the template on [localhost:3000](http://localhost:3000). 
+It’ll start the template on [localhost:3000](http://localhost:3000).
 
-The documentation includes all the guides you need for the integrations. 
+The documentation includes all the guides you need for the integrations.
 
 
 ### Deploying on PaaS

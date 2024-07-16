@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export const metadata: Metadata = {
   title: "Success Page - Freeny Logistics",
-  description: "This is Error page for Solid Pro",
+  description: "This is the contact success page for Freeny Logistics",
   // other metadata
 };
 
